@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cowboy](https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif)
+![Doge](https://media.giphy.com/media/nlmwU1uZgFGdq/giphy.gif)
 
 <!--
 **patrykszwed/patrykszwed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
